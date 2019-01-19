@@ -5,11 +5,7 @@
 
 * Machine-Learning in Practice (Detailed Comments + Training Datasets), Keep updating!<br>
 
-* Welcome to my[[CSDN Column](http://blog.csdn.net/column/details/16415.html "悬停显示")]<br>
-
-* Follow me on[[Zhihu Column](https://zhuanlan.zhihu.com/ml-jack "悬停显示")]<br>
-
-* My Website: http://cuijiahua.com/
+* My Website: [wmathor](https://wmathor.com/)
 
 ### Article Debut
 
