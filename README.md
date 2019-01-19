@@ -108,15 +108,15 @@
 
 * [3. Stepwise Regression]()
 
-* [4. Predicting the Price of Second Hand Lego](https://github.com/Jack-Cherish/Machine-Learning/blob/master/Regression/lego.py "悬停显示")
+* [4. Predicting the Price of Second Hand Lego]()
 
 ## Chapt. 9: Regression Tree
 
-|   Article   |  Personal Website  |    CSDN    |    Zhihu    |
-| :------  | :--------: | :--------: | :--------: |
-| Python3 <Machine-Learning in Practice> study notes (XIII): Regression Tree (Basic Concepts): CART Alogrithm and Pruning | [Personal Website](http://cuijiahua.com/blog/2017/12/ml_13_regtree_1.html "悬停显示") | no | no |
+|   Article   |
+| :------  |
+| Python3 <Machine-Learning in Practice> study notes (XIII): Regression Tree (Basic Concepts): CART Alogrithm and Pruning |
 
 
 ###  Code
 
-* [1. Regression Tree](https://github.com/Jack-Cherish/Machine-Learning/blob/master/Regression%20Trees/regTrees.py "悬停显示")
+* [1. Regression Tree]()
