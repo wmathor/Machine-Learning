@@ -1,4 +1,4 @@
-# Machine-Learning
+# :zap:Machine-Learning
 * [中文（简体）](https://github.com/Jack-Cherish/Machine-Learning/blob/master/README.md "悬停显示")<br>
 
 * Rome was not built in a day<br>
@@ -7,7 +7,7 @@
 
 * My Website: [wmathor](https://wmathor.com/)
 
-## Chapt. 2: K-Nearest Neighbors Algorithm
+## :lipstick:Chapt. 2: K-Nearest Neighbors Algorithm
 
 |   Article   |
 | :------  |
@@ -16,11 +16,11 @@
 
 ### Code
 
-* [1. Entry Level k-NN]()
+* [1. Entry Level k-NN](https://github.com/mathors/Machine-Learning/blob/master/KNN/%E7%94%B5%E5%BD%B1%E5%88%86%E7%B1%BB.ipynb)
 
-* [2. Miss Helen Dating History]()
+* [2. Miss Helen Dating History](https://github.com/mathors/Machine-Learning/blob/master/KNN/%E6%B5%B7%E4%BC%A6%E7%BA%A6%E4%BC%9A.ipynb)
 
-* [3. Digits Recognition]()
+* [3. Digits Recognition](https://github.com/mathors/Machine-Learning/blob/master/KNN/%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.ipynb)
 
 ## Chapt. 3: Decision Tree
 
