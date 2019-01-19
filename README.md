@@ -7,15 +7,11 @@
 
 * My Website: [wmathor](https://wmathor.com/)
 
-### Article Debut
-
-*  Debut articles on my website and forward on orther platforms, click here to get the latest development: http://cuijiahua.com/
-
 ## Chapt. 2: K-Nearest Neighbors Algorithm
 
-|   Article   |  Personal Website  |    CSDN    |    Zhihu    |
-| :------  | :--------: | :--------: | :--------: |
-| Python3 <Machine-Learning in Practice> study notes (I): K-Nearest Neighbors Algorithm (Gorgeous and Splendid Tutorial) | [Personal Website](http://cuijiahua.com/blog/2017/11/ml_1_knn.html "悬停显示") | [CSDN](http://blog.csdn.net/c406495762/article/details/75172850 "悬停显示") | [Zhihu](https://zhuanlan.zhihu.com/p/28656126 "悬停显示") |
+|   Article   |
+| :------  |
+| Python3 <Machine-Learning in Practice> study notes (I): K-Nearest Neighbors Algorithm (Gorgeous and Splendid Tutorial)
 
 
 ### Code
