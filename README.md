@@ -3,15 +3,11 @@
 
 * Rome was not built in a day<br>
 
-* [Blog](http://blog.csdn.net/c406495762 "悬停显示")<br>
-
 * Machine-Learning in Practice (Detailed Comments + Training Datasets), Keep updating!<br>
 
 * Welcome to my[[CSDN Column](http://blog.csdn.net/column/details/16415.html "悬停显示")]<br>
 
 * Follow me on[[Zhihu Column](https://zhuanlan.zhihu.com/ml-jack "悬停显示")]<br>
-
-* QQ Group for Communication[328127489]<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=e70f3fcff3761450fda9b43eadc1910dac308a962ef9e3e87941cd2c681c4bb4"><img border="0" src="https://github.com/Jack-Cherish/Pictures/blob/master/qqgroup.png" alt="Coder" title="Coder"></a><br>
 
 * My Website: http://cuijiahua.com/
 
