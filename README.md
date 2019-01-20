@@ -1,5 +1,5 @@
 # :zap:Machine-Learning
-* [中文（简体）](https://github.com/Jack-Cherish/Machine-Learning/blob/master/README.md "悬停显示")<br>
+* [中文（简体）]()<br>
 
 * Rome was not built in a day<br>
 
