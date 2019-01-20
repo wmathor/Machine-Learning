@@ -30,9 +30,9 @@
 
 ### Code
 
-* [1. Loan Prediction]()
+* [1. Loan Prediction](https://github.com/mathors/Machine-Learning/blob/master/DT/Decision_Tree.ipynb)
 
-* [2. Contact Lenses]()
+* [2. Contact Lenses](https://github.com/mathors/Machine-Learning/blob/master/DT/Sklearn_DT.ipynb)
 
 ##  Chapt. 4: Navie Bayes
 
