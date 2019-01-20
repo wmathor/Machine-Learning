@@ -22,7 +22,7 @@
 
 * [3. Digits Recognition](https://github.com/mathors/Machine-Learning/blob/master/KNN/%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.ipynb)
 
-## Chapt. 3: Decision Tree
+## :twisted_rightwards_arrows:Chapt. 3: Decision Tree
 
 |   Article   |
 | :------  |
