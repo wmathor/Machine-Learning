@@ -46,7 +46,7 @@
 
 * [2. Spam Filter]()
 
-* [3. News Catalogues]()
+* [3. Categories Of News]()
   
 ## Chapt. 5: Logistic Regression
 
