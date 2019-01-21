@@ -34,7 +34,7 @@
 
 * [2. Contact Lenses](https://github.com/mathors/Machine-Learning/blob/master/DT/Sklearn_DT.ipynb)
 
-##  Chapt. 4: Navie Bayes
+##  :penguin:Chapt. 4: Navie Bayes
 
 |   Article   |
 | :------  |
@@ -42,11 +42,11 @@
 
 ### Code
 
-* [1. Comment Filter]()
+* [1. Comment Filter](https://github.com/mathors/Machine-Learning/blob/master/Naive%20Bayes/%E6%96%87%E6%9C%AC%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90.ipynb)
 
-* [2. Spam Filter]()
+* [2. Spam Filter](https://github.com/mathors/Machine-Learning/blob/master/Naive%20Bayes/%E5%9E%83%E5%9C%BE%E9%82%AE%E4%BB%B6%E8%BF%87%E6%BB%A4.ipynb)
 
-* [3. Categories Of News]()
+* [3. Categories Of News](https://github.com/mathors/Machine-Learning/blob/master/Naive%20Bayes/%E6%96%B0%E9%97%BB%E5%88%86%E7%B1%BB.ipynb)
   
 ## Chapt. 5: Logistic Regression
 
